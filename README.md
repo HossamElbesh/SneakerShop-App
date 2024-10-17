@@ -1,6 +1,23 @@
-# sneaker_shop
+# Sneaker Shop
 
-A new Flutter project.
+A Flutter application that allows users to browse and purchase sneakers. The app features a user-friendly interface, cart management, and responsive design.
+![Preview](lib/assets/images/Preview.jpg)
+
+## Features
+
+- **Clean UI:** Modern, minimalist design with smooth navigation.
+- **Product Listings:** Display sneaker details (name, price, description, image) and browse the collection.
+- **Cart Management:** Add/remove sneakers from the cart with real-time updates via Provider.
+- **Notifications:** Alerts for successful cart actions.
+- **Responsive Design:** Works well across different screen sizes.
+
+## Technologies Used
+
+- **Flutter:** Cross-platform framework for Android and iOS.
+- **Provider:** State management for handling cart operations.
+- **Google Nav Bar:** Customizable bottom navigation bar.
+- **Material Design:** Flutter's built-in UI components.
+- **Asset Management:** Efficient sneaker image handling.
 
 ## Getting Started
 
